@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>oscar &#8211; Aeracura</title>
+	<atom:link href="https://aeracura.netlify.app/author/oscar/feed/" rel="self" type="application/rss+xml" />
+	<link>https://aeracura.netlify.app</link>
+	<description>Aeracura donde la espiritualidad florece</description>
+	<lastBuildDate>Wed, 20 Nov 2024 22:05:58 +0000</lastBuildDate>
+	<language>es-CO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+<image>
+	<url>https://aeracura.netlify.app/wp-content/uploads/2024/11/WhatsApp_Image_2024-11-09_at_2.41.45_PM-removebg-preview-1.png</url>
+	<title>oscar &#8211; Aeracura</title>
+	<link>https://aeracura.netlify.app</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>¡Hola mundo!</title>
+		<link>https://aeracura.netlify.app/hola-mundo/</link>
+					<comments>https://aeracura.netlify.app/hola-mundo/#comments</comments>
+		
+		<dc:creator><![CDATA[oscar]]></dc:creator>
+		<pubDate>Wed, 20 Nov 2024 22:05:58 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">https://aeracura.netlify.app/?p=1</guid>
+
+					<description><![CDATA[Bienvenido(a) a WordPress. Esta es tu primera entrada. Edítala o bórrala ¡y comienza a publicar!]]></description>
+										<content:encoded><![CDATA[
+<p>Bienvenido(a) a WordPress. Esta es tu primera entrada. Edítala o bórrala ¡y comienza a publicar!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://aeracura.netlify.app/hola-mundo/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
